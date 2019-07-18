@@ -2,7 +2,7 @@
 Android Navigation Component
 
 ### Screenshot
-<img src="image/screen.png" width="200">     <img src="image/screen2.png" width="200">
+<img src="image/Screenshot_2019-07-18-17-23-54-399_com.s.navigationcomponent.png" width="200">     <img src="image/Screenshot_2019-07-18-17-23-54-399_com.s.navigationcomponent.png" width="200">
 
 ### Installing
 
